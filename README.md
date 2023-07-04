@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**nataliaCodes/nataliaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, visitor number <img src="https://profile-counter.glitch.me/nataliaCodes/count.svg" /> !
 
-Here are some ideas to get you started:
+### I'm Natalia, Full-Stack Developer <br>
+### Welcome to my GitHub page!
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Reach me at:** </br>
+[![Static Badge](https://img.shields.io/badge/Gmail-natalia.martian%40gmail.com-orange?logo=Gmail&logoColor=orange&labelColor=black)](mailto:natalia.martian@gmail.com) </br>
+[![Static Badge](https://img.shields.io/badge/LinkedIn-%2Fin%2Fnmartian-orange?logo=Linkedin&logoColor=orange&labelColor=black)](https://www.linkedin.com/in/nmartian/)
+
+---
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nataliaCodes) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliaCodes&hide=stars,contribs&show_icons=true&theme=transparent&rank_icon=percentile&custom_title=My%20Stats)](https://github.com/anuraghazra/github-readme-stats)
