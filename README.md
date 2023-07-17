@@ -39,22 +39,9 @@
 
 <div align=center>
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%201%20min-blue)
+  
+ ### **WakaTime Stats** 
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 24.2 kB Used in GitHub's Storage 
- > 
-> 🏆 88 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 47 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -88,16 +75,6 @@ SQL                      1 hr 5 mins         ██░░░░░░░░░�
 SCSS                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
-🔥 Editors: 
-VS Code                  17 hrs 56 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-client                   5 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.32 % 
-GitHub                   5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.51 % 
-server                   4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-uPick                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-uPick-smart-todo-list-mas17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-
 💻 Operating System: 
 Linux                    17 hrs 56 mins      █████████████████████████   100.00 % 
 ```
@@ -112,15 +89,10 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ```
 
 
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/nataliaCodes/nataliaCodes/main/assets/bar_graph.png)
-
-
  Last Updated on 17/07/2023 15:41:20 UTC
 <!--END_SECTION:waka-->
 </div>
+
 ---
 
 <div align=center>
