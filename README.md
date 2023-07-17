@@ -37,6 +37,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nataliaCodes&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent&rank_icon=percentile&custom_title=My%20Stats&count_private=true"  />
 </div>
 
+<img
+  src="https://github.com/nataliaCodes/nataliaCodes/blob/main/images/stat.svg"
+  alt="Waka stats"
+/>
+
 ---
 
 <div align=center>
