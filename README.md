@@ -7,8 +7,8 @@
 
 **<h3 align=center>Reach me at:</h3>**
 <div align=center>
-  <a href="mailto:natalia.martian@gmail.com"><img src="https://img.shields.io/badge/Gmail-natalia.martian%40gmail.com-orange?logo=Gmail&logoColor=orange&labelColor=black" height="30" /></a>
-  <a href="https://www.linkedin.com/in/nmartian/"><img src="https://img.shields.io/badge/LinkedIn-%2Fin%2Fnmartian-orange?logo=Linkedin&logoColor=orange&labelColor=black" height="30" /></a>
+  <a href="mailto:natalia.martian@gmail.com"><img src="https://img.shields.io/badge/Gmail-natalia.martian%40gmail.com-orange?logo=Gmail&logoColor=orange&labelColor=black" height="25" /></a>
+  <a href="https://www.linkedin.com/in/nmartian/"><img src="https://img.shields.io/badge/LinkedIn-%2Fin%2Fnmartian-orange?logo=Linkedin&logoColor=orange&labelColor=black" height="25" /></a>
 </div>
 
 ---
